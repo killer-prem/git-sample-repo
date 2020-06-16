@@ -1,10 +1,10 @@
 git status -> prints the status of the git repository.
 git init -> initializes the file.
-git config --global user.name "Let's Kode It"
-git config --global user.email letskodeit@gmail.com
-git config user.name "Let's Kode It"
-git config user.email letskodeit@gmail.com
-git add
-git commit -m ""
-git log
-git diff <filename>
+git config --global user.name "Let's Kode It" -> xyz
+git config --global user.email letskodeit@gmail.com -> xyz
+git config user.name "Let's Kode It" -> xyz
+git config user.email letskodeit@gmail.com -> xyz
+git add -> xyz
+git commit -m ""-> xyz
+git log -> xyz
+git diff <filename> -> xyz
